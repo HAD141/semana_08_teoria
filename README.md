@@ -1,7 +1,6 @@
 # Conociendo git
 
-Estamos escribiendo un archivo desde la consola
-
 Primeros comandos de git
 
+Para más información acerca de la licencia ver el archivo 
 
